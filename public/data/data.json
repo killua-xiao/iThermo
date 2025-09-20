@@ -1,0 +1,77 @@
+{
+  "updated_at": "2025-09-20T15:21:51.933594+00:00",
+  "indexes": [
+    {
+      "code": "000001.SS",
+      "name": "上证指数",
+      "price": null,
+      "valuation_status": "neutral",
+      "pe_ttm": null,
+      "pb": null,
+      "pe_percentile": null,
+      "pb_percentile": null,
+      "history": [],
+      "trend_text": null
+    },
+    {
+      "code": "000300.SH",
+      "name": "沪深300",
+      "price": null,
+      "valuation_status": "neutral",
+      "pe_ttm": null,
+      "pb": null,
+      "pe_percentile": null,
+      "pb_percentile": null,
+      "history": [],
+      "trend_text": null
+    },
+    {
+      "code": "^GSPC",
+      "name": "标普500",
+      "price": null,
+      "valuation_status": "neutral",
+      "pe_ttm": null,
+      "pb": null,
+      "pe_percentile": null,
+      "pb_percentile": null,
+      "history": [],
+      "trend_text": null
+    },
+    {
+      "code": "^NDX",
+      "name": "纳斯达克100",
+      "price": null,
+      "valuation_status": "neutral",
+      "pe_ttm": null,
+      "pb": null,
+      "pe_percentile": null,
+      "pb_percentile": null,
+      "history": [],
+      "trend_text": null
+    },
+    {
+      "code": "^HSI",
+      "name": "恒生指数",
+      "price": null,
+      "valuation_status": "neutral",
+      "pe_ttm": null,
+      "pb": null,
+      "pe_percentile": null,
+      "pb_percentile": null,
+      "history": [],
+      "trend_text": null
+    },
+    {
+      "code": "^HSTECH",
+      "name": "恒生科技指数",
+      "price": null,
+      "valuation_status": "neutral",
+      "pe_ttm": null,
+      "pb": null,
+      "pe_percentile": null,
+      "pb_percentile": null,
+      "history": [],
+      "trend_text": null
+    }
+  ]
+}
